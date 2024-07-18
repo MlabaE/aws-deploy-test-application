@@ -1,0 +1,11 @@
+<profiles>
+    <profile>
+        <id>local-repo</id>
+        <activation>
+            <activeByDefault>true</activeByDefault>
+        </activation>
+        <properties>
+            <localRepository>C:\Users\evanne.mlaba\.m2\repository</localRepository>
+        </properties>
+    </profile>
+</profiles>
