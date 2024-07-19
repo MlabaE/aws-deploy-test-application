@@ -3,7 +3,7 @@
   "containerDefinitions": [
     {
       "name": "libfin-test-devops",
-      "image": "YOUR_ACCOUNT_ID.dkr.ecr.YOUR_REGION.amazonaws.com/spring-boot-demo:latest",
+      "image": "YOUR_ACCOUNT_ID.dkr.ecr.YOUR_REGION.amazonaws.com/libfin-test-devops-ecr:latest",
       "essential": true,
       "memory": 512,
       "portMappings": [
